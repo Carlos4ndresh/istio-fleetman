@@ -12,10 +12,10 @@ spec:
             x-my-header:
               exact: canary
       fault:
-        abort:
+        delay:
           percentage:
             value: 100.0
-        httpStatus: 418 # BE CAREFUL WITH INDENTATION!
+          fixedDelay: 20s
       route:
         - destination:
             host: fleetman-staff-service

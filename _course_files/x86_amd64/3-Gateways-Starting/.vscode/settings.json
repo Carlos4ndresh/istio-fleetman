@@ -1,0 +1,7 @@
+{
+    "yaml.schemas": {
+        "/Users/cherrera/GitRepo/custodian_schema.json": "*yml",
+        "kubernetes://schema/apps/v1@deployment+apps/v1@deployment+apps/v1@deployment+apps/v1@deployment+apps/v1@deployment+apps/v1@deployment+apps/v1@deployment+v1@service+v1@service+v1@service+v1@service+v1@service": "file:///home/cherrera/github/istio-fleetman/_course_files/x86_amd64/3-Gateways-Starting/5-application-no-istio.yaml",
+        "kubernetes://schema/networking.istio.io/v1alpha3@virtualservice": "file:///home/cherrera/github/istio-fleetman/_course_files/x86_amd64/3-Gateways-Starting/6-istio-rules.yaml"
+    }
+}

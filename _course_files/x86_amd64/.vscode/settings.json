@@ -1,0 +1,10 @@
+{
+    "yaml.schemas": {
+        "/Users/cherrera/GitRepo/custodian_schema.json": "*yml",
+        "kubernetes://schema/networking.istio.io/v1alpha3@gateway+networking.istio.io/v1alpha3@virtualservice+networking.istio.io/v1alpha3@virtualservice+networking.istio.io/v1alpha3@destinationrule": "file:///home/cherrera/github/istio-fleetman/_course_files/x86_amd64/3-Gateways-Subdomain/6-istio-rules.yaml",
+        "kubernetes://schema/networking.istio.io/v1alpha3@virtualservice+networking.istio.io/v1alpha3@destinationrule": [
+            "file:///home/cherrera/github/istio-fleetman/_course_files/x86_amd64/5-Fault-Injection/7-dark-release-rules.yaml",
+            "file:///home/cherrera/github/istio-fleetman/_course_files/x86_amd64/8-Customization/raw_demo_settings.yml"
+        ]
+    }
+}
